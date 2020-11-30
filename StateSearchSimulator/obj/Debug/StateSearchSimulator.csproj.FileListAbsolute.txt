@@ -1,0 +1,7 @@
+C:\Users\james\OneDrive - Dundalk Institute of Technology\College\Year3\Sem1\C++\Projects\StateSearchSimulator\StateSearchSimulator\bin\Debug\StateSearchSimulator.exe.config
+C:\Users\james\OneDrive - Dundalk Institute of Technology\College\Year3\Sem1\C++\Projects\StateSearchSimulator\StateSearchSimulator\bin\Debug\StateSearchSimulator.exe
+C:\Users\james\OneDrive - Dundalk Institute of Technology\College\Year3\Sem1\C++\Projects\StateSearchSimulator\StateSearchSimulator\bin\Debug\StateSearchSimulator.pdb
+C:\Users\james\OneDrive - Dundalk Institute of Technology\College\Year3\Sem1\C++\Projects\StateSearchSimulator\StateSearchSimulator\obj\Debug\StateSearchSimulator.csprojAssemblyReference.cache
+C:\Users\james\OneDrive - Dundalk Institute of Technology\College\Year3\Sem1\C++\Projects\StateSearchSimulator\StateSearchSimulator\obj\Debug\StateSearchSimulator.csproj.CoreCompileInputs.cache
+C:\Users\james\OneDrive - Dundalk Institute of Technology\College\Year3\Sem1\C++\Projects\StateSearchSimulator\StateSearchSimulator\obj\Debug\StateSearchSimulator.exe
+C:\Users\james\OneDrive - Dundalk Institute of Technology\College\Year3\Sem1\C++\Projects\StateSearchSimulator\StateSearchSimulator\obj\Debug\StateSearchSimulator.pdb
